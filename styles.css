@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+#a-1{
+	background-color: beige;
+	width: 300px;
+	height: 500px;
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 5px 5px 20px beige;
+	text-align: center;
+	font-weight: 500;
+	
+}
+img{
+	height: 200px;
+	width: 300px;
+}
+#a-2{
+	height: 50px;
+	width: 130px;
+	padding:10px;
+	background-color: orangered;
+	border: none;
+	color: white;
+	font-size: 20px;
+	border-radius: 15px
+}
